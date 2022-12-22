@@ -1,2 +1,2 @@
 # DSA
-## sinmple cloning exercise attemp
+## simple cloning exercise attemp
